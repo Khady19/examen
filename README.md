@@ -23,7 +23,7 @@ Exécutez le script SQL fourni dans le dossier "sql" pour créer les tables néc
 Importez le projet dans votre environnement de développement (Eclipse, IntelliJ IDEA, NetBeans, etc.) et configurez la connexion à la base de données dans le fichier persistence.xml
 Déployez l'application sur le serveur WildFly
 # Utilisation
-Accédez à l'application à l'URL http://localhost:8080/recherche-emploi/
+Accédez à l'application à l'URL http://localhost:8080/myExamWeb/
 Utilisez le formulaire d'inscription pour créer un compte candidat
 Connectez-vous avec vos informations d'identification pour accéder à votre espace personnel
 Créez un nouveau CV en remplissant le formulaire en ligne
